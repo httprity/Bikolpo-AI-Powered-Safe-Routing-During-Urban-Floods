@@ -1,0 +1,6 @@
+source,destination,route_name,distance_km,rainfall_mm,water_level_m,risk_value
+Dhaka,Chittagong,Route_1,248,120,4.5,0.8
+Dhaka,Chittagong,Route_2,280,70,3.2,0.4
+Dhaka,Chittagong,Route_3,260,50,2.1,0.2
+Dhaka,Khulna,Route_1,185,60,3.1,0.3
+Dhaka,Khulna,Route_2,190,80,4.0,0.6
